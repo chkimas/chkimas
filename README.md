@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Christian Kim P. Asilo (Kim)</b>
+  <b>Christian Kim P. Asilo</b>
 </p>
 
 <p align="center">
